@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: dimgray;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: burlywood;
+    text-shadow: 4px 4px 9px black; 
+}
+
+h5 {
+    font-family: monospace;
+    color: white;
+    font-size: 15px;
+    text-shadow: 4px 4px 9px black;
+}
+
+p {
+    font-family: monospace;
+    color: white;
+    font-size: 15px;
+    text-shadow: 4px 4px 9px black;
+}
+
+h4 {
+    font-family: monospace;
+    color: white;
+    font-size: 15px;
+    text-shadow: 4px 4px 9px black;
+}
